@@ -3,8 +3,8 @@
 Time Series Prediction using Keras LSTM with Tensorflow backend 
 
 This repository is my experimental code for Keras LSTM with Google's Tensorflow backend,
-It is mostly taken from Jacob Aungier's blog:
-http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction  
+It consists of a compilation and modification of various resources found the web. 
+
 
 LSTM is an algorithm used where there are lots of data and 
 where sequential data matter such as financial forecast,
